@@ -1,4 +1,8 @@
-### Hi there, I'm Arthur 👋
+# 👨🏻‍💻 [Arthur Almeida](https://arthuralmeida.dev)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Almeida-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arthursalmeida/)](https://www.linkedin.com/in/arthursalmeida/) [![GitHub followers](https://img.shields.io/github/followers/arthuralmeida93?label=Follow&style=social)](https://github.com/arthuralmeida93/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-arthuralmeida-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:contato@arthuralmeida.dev)](mailto:contato@arthuralmeida.dev) 
+
+### Hi there 👋
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/13452140/126913456-0b267dcc-c958-4ce1-8c1a-96c81312e3e1.gif" align="center" width="50%"/>
@@ -60,33 +64,18 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/arthuralmeida93" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/arthursalmeida" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arthuralmeida93&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=arthuralmeida93&show_icons=true&count_private=true&hide_border=true&theme=nord" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeida93&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeida93&hide_border=true&count_private=true&layout=compact&theme=nord" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
-<br/>  
+<br/>   
 
   
 
