@@ -12,7 +12,7 @@
 ### <div align="center">I'm a full-stack developer that fell in love with DevOps 🚀</div>  
   
 
-- 👨‍💻 I’m currently working at [Pareto.io](https://pareto.io)  
+- 👨‍💻 I’m currently working at [Jumia Group](https://group.jumia.com/)  
   
 
 - 🤖 I’m currently learning Cloud Computing and Cyber Security  
