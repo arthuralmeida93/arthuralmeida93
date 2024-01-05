@@ -12,7 +12,7 @@
 ### <div align="center">I'm a full-stack developer that fell in love with DevOps 🚀</div>  
   
 
-- 👨‍💻 I’m currently working at [Hole 19]([https://www.hole19golf.com])  
+- 👨‍💻 I’m currently working at [Hole 19](https://www.hole19golf.com)  
   
 
 - 🤖 I’m currently learning Cloud Computing and Cyber Security  
