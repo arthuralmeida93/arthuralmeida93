@@ -1,70 +1,41 @@
-# 👨🏻‍💻 [Arthur Almeida](https://arthuralmeida.dev)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Almeida-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arthursalmeida/)](https://www.linkedin.com/in/arthursalmeida/) [![GitHub followers](https://img.shields.io/github/followers/arthuralmeida93?label=Follow&style=social)](https://github.com/arthuralmeida93/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-arthuralmeida-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:contato@arthuralmeida.dev)](mailto:contato@arthuralmeida.dev) 
-
-### Hi there 👋
+<h1 align="center">👨🏻‍💻 Arthur Almeida</h1>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/13452140/126913456-0b267dcc-c958-4ce1-8c1a-96c81312e3e1.gif" align="center" width="50%"/>
-</div>  
-  
 
-### <div align="center">I'm a full-stack developer that fell in love with DevOps 🚀</div>  
-  
+[![LinkedIn](https://img.shields.io/badge/-Arthur%20Almeida-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arthursalmeida/)](https://www.linkedin.com/in/arthursalmeida/) [![GitHub followers](https://img.shields.io/github/followers/arthuralmeida93?label=Follow&style=social)](https://github.com/arthuralmeida93?tab=followers)
 
-- 👨‍💻 I’m currently working at [Hole 19](https://www.hole19golf.com)  
-  
+<a href="https://github.com/arthuralmeida93">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=620&lines=Full-stack+dev+who+fell+for+DevOps;Cloud+%2B+Cybersecurity+nerd;Building+with+LLMs+and+AI+agents;I+automate+the+boring+stuff;IoT+tinkerer+and+3D-printing+addict" alt="What I do" />
+</a>
 
-- 🤖 I’m currently learning Cloud Computing and Cyber Security  
-  
+</div>
 
-- 💬 Ask me about anything via social media, I'm really open to a good conversation  
-  
+## 🧭 whoami
 
-- ⚡ Besides programming, I love 3D printing, IoT related stuff and cybersecurity  
-  
+I'm a full-stack engineer who **fell for DevOps**. I like building the product and then automating everything that ships it. These days I'm at [Hole19](https://www.hole19golf.com), helping keep a Rails, Postgres and AWS platform fast and boring (the good kind of boring), and increasingly wiring **LLMs and AI agents** into the things we build. When I'm not coding for work, you'll find me poking at **cloud and cybersecurity**, soldering IoT gadgets, or printing something on the 3D printer.
 
-<br/>  
+## 🧰 Tools of the trade
 
+| Area | Stack |
+| --- | --- |
+| **Backend & Full-stack** | Ruby on Rails · Node.js · Python · TypeScript · React · Django · Flask |
+| **DevOps & Cloud** | AWS · GCP · Azure · Docker · Kubernetes · Jenkins · Nginx · Bash · Linux |
+| **Data & Observability** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Kibana · Grafana |
+| **AI & Automation** | Claude / Anthropic API · OpenAI API · MCP · RAG · LangChain · pgvector · Prompt Engineering |
+| **Hardware & IoT** | Raspberry Pi · Arduino · 3D Printing |
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" />  
-</div>  
+## 🐍 CI/CD: Continuous Ingestion / Continuous Digestion
 
-<br/>  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthuralmeida93/arthuralmeida93/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthuralmeida93/arthuralmeida93/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/arthuralmeida93/arthuralmeida93/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-## Github Stats  
+## 📊 By the numbers
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=arthuralmeida93&show_icons=true&count_private=true&hide_border=true&theme=nord" align="left" style="width: 100%" />
@@ -73,18 +44,22 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeida93&hide_border=true&count_private=true&layout=compact&theme=nord" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>   
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuralmeida93&theme=nord&hide_border=true" alt="GitHub streak stats" />
+</div>
 
-  
+## 🏆 Trophy shelf
 
-<br/>  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arthuralmeida93&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=arthuralmeida93&&style=flat-square)  
-  
+<br/>
 
-<br/>  
+<div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=arthuralmeida93&style=flat-square&color=5e81ac)
 
-<br />
+</div>
