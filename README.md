@@ -48,8 +48,4 @@ I'm a full-stack engineer who **fell for DevOps**. I like building the product a
 
 ![Followers](https://img.shields.io/github/followers/arthuralmeida93?style=for-the-badge&logo=github&label=Followers&color=5E81AC&labelColor=2E3440) ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farthuralmeida93&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=A3BE8C&labelColor=2E3440) ![Profile Views](https://komarev.com/ghpvc/?username=arthuralmeida93&style=for-the-badge&label=Profile%20Views&color=B48EAD)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuralmeida93&theme=nord&hide_border=true" alt="GitHub streak stats" />
-
 </div>
