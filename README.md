@@ -22,15 +22,11 @@ I'm a full-stack engineer who **fell for DevOps**. I like building the product a
 
 **🟩 DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-4C9A6B?style=for-the-badge) ![GCP](https://img.shields.io/badge/GCP-4C9A6B?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-4C9A6B?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-4C9A6B?style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-4C9A6B?style=for-the-badge) ![Jenkins](https://img.shields.io/badge/Jenkins-4C9A6B?style=for-the-badge) ![Nginx](https://img.shields.io/badge/Nginx-4C9A6B?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4C9A6B?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-4C9A6B?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-4C9A6B?style=for-the-badge) ![GCP](https://img.shields.io/badge/GCP-4C9A6B?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-4C9A6B?style=for-the-badge) ![Terraform](https://img.shields.io/badge/Terraform-4C9A6B?style=for-the-badge) ![Ansible](https://img.shields.io/badge/Ansible-4C9A6B?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-4C9A6B?style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-4C9A6B?style=for-the-badge) ![Argo CD](https://img.shields.io/badge/Argo_CD-4C9A6B?style=for-the-badge) ![Flux CD](https://img.shields.io/badge/Flux_CD-4C9A6B?style=for-the-badge) ![Jenkins](https://img.shields.io/badge/Jenkins-4C9A6B?style=for-the-badge) ![Nginx](https://img.shields.io/badge/Nginx-4C9A6B?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4C9A6B?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-4C9A6B?style=for-the-badge)
 
 **🟪 Data & Observability**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B48EAD?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-B48EAD?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-B48EAD?style=for-the-badge) ![Redis](https://img.shields.io/badge/Redis-B48EAD?style=for-the-badge) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-B48EAD?style=for-the-badge) ![Kibana](https://img.shields.io/badge/Kibana-B48EAD?style=for-the-badge) ![Grafana](https://img.shields.io/badge/Grafana-B48EAD?style=for-the-badge)
-
-**🟥 AI & Automation**
-
-![Claude / Anthropic API](https://img.shields.io/badge/Claude_%2F_Anthropic_API-BF616A?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-BF616A?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-BF616A?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-BF616A?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-BF616A?style=for-the-badge) ![pgvector](https://img.shields.io/badge/pgvector-BF616A?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-BF616A?style=for-the-badge)
 
 **🟧 Hardware & IoT**
 
