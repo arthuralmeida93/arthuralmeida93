@@ -12,7 +12,7 @@
 
 ## 🧭 whoami
 
-I'm a full-stack engineer who **fell for DevOps**. I like building the product and then automating everything that ships it. These days I'm at [Hole19](https://www.hole19golf.com), helping keep a Rails, Postgres and AWS platform fast and boring (the good kind of boring), and increasingly wiring **LLMs and AI agents** into the things we build. When I'm not coding for work, you'll find me poking at **cloud and cybersecurity**, soldering IoT gadgets, or printing something on the 3D printer.
+I'm a full-stack engineer who **fell for DevOps**. I like building the product and then automating everything that ships it. These days I'm at [Hole19](https://www.hole19golf.com), keeping the Rails, Postgres and AWS platform behind the app fast and reliable for thousands of golfers, whatever the load, and increasingly wiring **LLMs and AI agents** into the things we build. When I'm not coding for work, you'll find me poking at **cloud and cybersecurity**, soldering IoT gadgets, or printing something on the 3D printer.
 
 ## 🧰 Tools of the trade
 
