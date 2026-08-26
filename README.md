@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Arthur%20Almeida-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arthursalmeida/)](https://www.linkedin.com/in/arthursalmeida/) [![GitHub followers](https://img.shields.io/github/followers/arthuralmeida93?label=Follow&style=social)](https://github.com/arthuralmeida93?tab=followers)
 
 <a href="https://github.com/arthuralmeida93">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=620&lines=Full-stack+dev+who+fell+for+DevOps;Cloud+%2B+Cybersecurity+nerd;Building+with+LLMs+and+AI+agents;I+automate+the+boring+stuff;IoT+tinkerer+and+3D-printing+addict" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=700&lines=Full-stack+dev+who+fell+for+DevOps;Cloud+%2B+Cybersecurity+nerd;Building+with+LLMs+and+AI+agents;I+automate+the+boring+stuff;IoT+tinkerer+and+3D-printing+addict" alt="What I do" />
 </a>
 
 </div>
@@ -16,13 +16,25 @@ I'm a full-stack engineer who **fell for DevOps**. I like building the product a
 
 ## 🧰 Tools of the trade
 
-| Area | Stack |
-| --- | --- |
-| **Backend & Full-stack** | Ruby on Rails · Node.js · Python · TypeScript · React · Django · Flask |
-| **DevOps & Cloud** | AWS · GCP · Azure · Docker · Kubernetes · Jenkins · Nginx · Bash · Linux |
-| **Data & Observability** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Kibana · Grafana |
-| **AI & Automation** | Claude / Anthropic API · OpenAI API · MCP · RAG · LangChain · pgvector · Prompt Engineering |
-| **Hardware & IoT** | Raspberry Pi · Arduino · 3D Printing |
+**🟦 Backend & Full-stack**
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-5E81AC?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-5E81AC?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-5E81AC?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-5E81AC?style=for-the-badge) ![React](https://img.shields.io/badge/React-5E81AC?style=for-the-badge) ![Django](https://img.shields.io/badge/Django-5E81AC?style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-5E81AC?style=for-the-badge)
+
+**🟩 DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-4C9A6B?style=for-the-badge) ![GCP](https://img.shields.io/badge/GCP-4C9A6B?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-4C9A6B?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-4C9A6B?style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-4C9A6B?style=for-the-badge) ![Jenkins](https://img.shields.io/badge/Jenkins-4C9A6B?style=for-the-badge) ![Nginx](https://img.shields.io/badge/Nginx-4C9A6B?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4C9A6B?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-4C9A6B?style=for-the-badge)
+
+**🟪 Data & Observability**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B48EAD?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-B48EAD?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-B48EAD?style=for-the-badge) ![Redis](https://img.shields.io/badge/Redis-B48EAD?style=for-the-badge) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-B48EAD?style=for-the-badge) ![Kibana](https://img.shields.io/badge/Kibana-B48EAD?style=for-the-badge) ![Grafana](https://img.shields.io/badge/Grafana-B48EAD?style=for-the-badge)
+
+**🟥 AI & Automation**
+
+![Claude / Anthropic API](https://img.shields.io/badge/Claude_%2F_Anthropic_API-BF616A?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-BF616A?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-BF616A?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-BF616A?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-BF616A?style=for-the-badge) ![pgvector](https://img.shields.io/badge/pgvector-BF616A?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-BF616A?style=for-the-badge)
+
+**🟧 Hardware & IoT**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-D08770?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-D08770?style=for-the-badge) ![3D Printing](https://img.shields.io/badge/3D_Printing-D08770?style=for-the-badge)
 
 ## 🐍 CI/CD: Continuous Ingestion / Continuous Digestion
 
@@ -36,30 +48,12 @@ I'm a full-stack engineer who **fell for DevOps**. I like building the product a
 
 ## 📊 By the numbers
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arthuralmeida93&show_icons=true&count_private=true&hide_border=true&theme=nord" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeida93&hide_border=true&count_private=true&layout=compact&theme=nord" align="left" style="width: 100%" />
-
-</td></tr></table>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuralmeida93&theme=nord&hide_border=true" alt="GitHub streak stats" />
-</div>
 
-## 🏆 Trophy shelf
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthuralmeida93&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</div>
+![Followers](https://img.shields.io/github/followers/arthuralmeida93?style=for-the-badge&logo=github&label=Followers&color=5E81AC&labelColor=2E3440) ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farthuralmeida93&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=A3BE8C&labelColor=2E3440) ![Profile Views](https://komarev.com/ghpvc/?username=arthuralmeida93&style=for-the-badge&label=Profile%20Views&color=B48EAD)
 
 <br/>
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=arthuralmeida93&style=flat-square&color=5e81ac)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuralmeida93&theme=nord&hide_border=true" alt="GitHub streak stats" />
 
 </div>
